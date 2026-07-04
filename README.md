@@ -85,10 +85,10 @@ I'm not planning on stopping.
 
 Current victims include:
 
-- 🎮 **TamaJin** — A Python game framework slowly becoming the engine I've always wanted.
-- ⚔️ **Mochi's Barrack** — A Minecraft combat modpack reimagining PvP through cleaner mechanics and deeper combat.
-- 🌿 **Biotech** — A vanilla-friendly Minecraft modpack focused on coherence, immersion, and thoughtful game design.
-- 🧠 **Artificial Intelligence Research** — Teaching silicon to think. It's surprisingly cooperative~
+- 🎮 **TamaJin** - A Python game framework slowly becoming the engine I've always wanted.
+- ⚔️ **Mochi's Barrack** - A Minecraft combat modpack reimagining PvP through cleaner mechanics and deeper combat.
+- 🌿 **Biotech** - A vanilla-friendly Minecraft modpack focused on coherence, immersion, and thoughtful game design.
+- 🧠 **Artificial Intelligence Research** - Teaching silicon to think. It's surprisingly cooperative~
 - ✨ **Whatever impossible idea decides to ruin my sleep schedule next.**
 
 ---
