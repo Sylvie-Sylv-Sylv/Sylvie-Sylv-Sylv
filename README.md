@@ -125,7 +125,7 @@ I suppose I'll have to do it myself!! 💢
 ☐ Build beautiful things.
 ☑ Collect wonderfully unreasonable people.
 ☐ Convince reality to cooperate.
-☒ Ascend. (Surprisingly hard, not impossible tho).
+☒ Ascend.
 ```
 
 ---
