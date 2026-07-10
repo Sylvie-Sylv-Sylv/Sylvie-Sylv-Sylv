@@ -73,6 +73,12 @@ Welcome aboard~ ✨
 
 ---
 
+## My certificates!!
+
+Please follow this [link](https://github.com/Sylvie-Sylv-Sylv/My-Certificates/)!!
+
+---
+
 ## Current Shenanigans!!
 
 Every so often I look at an existing solution and think,
